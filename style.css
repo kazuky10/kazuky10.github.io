@@ -4,7 +4,6 @@ html {
 }
 
 * {
-    /*     outline: 1px solid red; */
     box-sizing: border-box;
     padding: 0;
 }
@@ -133,13 +132,6 @@ section.mas-noticias article img {
     object-fit: cover;
 }
 
-/* section-podcast  */
-/* section.podcast .video-podcast {
-    margin: auto;
-    display: block;
-    width: 100%;
-    aspect-ratio: 4/1.5;
-} */
 iframe {
     margin: auto;
     display: block;
